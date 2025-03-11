@@ -1,2 +1,11 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Commits test, World!");
+﻿using DesignPatternsStructural.Composite.Interface;
+using DesignPatternsStructural.Composite;
+using DesignPatternsStructural.Decorator.Interface;
+using DesignPatternsStructural.Decorator;
+
+class Program
+{
+    static void Main()
+    {
+    }
+}
